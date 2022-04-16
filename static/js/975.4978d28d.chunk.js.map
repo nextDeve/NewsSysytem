@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/975.4978d28d.chunk.js","mappings":"mKAEe,SAASA,IACpB,OACI","sources":["views/NewsSandBox/NoPermission/index.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function NoPermission() {\r\n    return (\r\n        <div>NoPermission</div>\r\n    )\r\n}\r\n"],"names":["NoPermission"],"sourceRoot":""}
